@@ -1,4 +1,4 @@
-<h1 align="center"></Hello World! 👋></h1>
+<h1 align="center">Hello World!👋</h1>
 <h2>Hey! I’m Sutanjoy Bhattacharjee 👋 A passionate learner and aspiring developer interested in programming fundamentals, problem-solving, and core engineering concepts.
 Exploring programming concepts step by step and enjoying the learning process.
 Debugging stress, powered by tea.</h2>
