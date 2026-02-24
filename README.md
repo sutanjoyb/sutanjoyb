@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!👋</h1>
 <h2>Hey! I’m Sutanjoy Bhattacharjee 👋 A passionate learner and aspiring developer interested in programming fundamentals, problem-solving, and core engineering concepts.
-Exploring programming concepts step by step and enjoying the learning process.<br>
+Exploring programming concepts step by step and enjoying the learning process.
 <h2 align="center">Debugging stress, powered by tea.</h2> 
 
 # 💻 Tech Stack:
