@@ -4,7 +4,7 @@
 
 ### 🚀 Aspiring Developer | Lifelong Learner | Problem Solver
 
-A passionate learner exploring programming fundamentals, core engineering concepts, and problem-solving techniques.  
+A passionate learner exploring programming fundamentals, core engineering concepts, and structured problem-solving techniques.  
 Currently strengthening my foundation step by step while enjoying the journey of continuous improvement.
 
 ☕ Debugging stress, powered by tea.
