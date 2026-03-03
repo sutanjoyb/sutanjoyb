@@ -1,11 +1,15 @@
-# Hey there! 👋 I'm Sutanjoy Bhattacharjee
+<div align="center">
+
+# <Hello World!👋 I'm Sutanjoy!/>
 
 ### 🚀 Aspiring Developer | Lifelong Learner | Problem Solver
 
-I’m a passionate learner exploring programming fundamentals, core engineering concepts, and structured problem-solving techniques.  
+A passionate learner exploring programming fundamentals, core engineering concepts, and structured problem-solving techniques.  
 Currently strengthening my foundation step by step while enjoying the journey of continuous improvement.
 
 ☕ Debugging stress, powered by tea.
+
+</div>
 
 ---
 
@@ -29,7 +33,6 @@ Currently strengthening my foundation step by step while enjoying the journey of
 [![](https://visitcount.itsvg.in/api?id=sutanjoyb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## 📫 Connect With Me
 
 <p align="left">
