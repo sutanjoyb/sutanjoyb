@@ -2,7 +2,7 @@
 
 <h3>Hello! I am Sutanjoy Bhattacharjee</h3>
 <p>
-  a passionate full-stack developer and open-source enthusiast.<br>
+  A passionate full-stack developer and open-source enthusiast.<br>
   Always eager to learn, innovate, and create impactful software solutions for the community.<br>
   <br>
   <strong>Debugging Stress, Powered by Tea! ☕</strong>
